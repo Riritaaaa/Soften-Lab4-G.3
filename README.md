@@ -7,7 +7,8 @@ Members
 ![rita](https://github.com/Riritaaaa/Soften-Lab4-G.3/assets/127298723/1fa4dd75-7fa6-4d32-9cab-dc95332fbea7)
 
 - 
--
+- นายณัฏฐ์ โสแพทย์ 643021224-1 Section.1 username github : natso64
+![nat](nat.jpg)
 - นางสาวบูชิตา ยศเรือง 643021237-2 Section.1 username github : buchitay
 -
 -
