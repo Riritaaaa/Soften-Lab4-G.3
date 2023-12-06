@@ -12,4 +12,5 @@ Members
 - นางสาวบูชิตา ยศเรือง 643021237-2 Section.1 username github : buchitay
 ![buchita](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/buchita.jpg)
 -
--
+-นายเหนือฟ้า พองพรหม 643020058-7 Section1 usernanme github : Superpeterl
+![peter](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/peter.jpg)
