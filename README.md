@@ -7,4 +7,4 @@ Members
 - 
 -
 - นางสาวบูชิตา ยศเรือง 643021237-2 Section.1 username github : buchitay
--
+- นางสาวอาทิตยา โคตรธิสาร 643021259-2 Section.1 username github : jfayq
