@@ -14,10 +14,10 @@ Members
 
 ![buchita](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/buchita.jpg)
 
--นายเหนือฟ้า พองพรหม 643020058-7 Section1 usernanme github : Superpeterl
+- นายเหนือฟ้า พองพรหม 643020058-7 Section1 usernanme github : Superpeterl
 
 ![peter](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/peter.jpg)
 
--นายณัฐวัฒน์ หมายบุญ 643020045-6 Section 1 username github : gumpun1z
+- นายณัฐวัฒน์ หมายบุญ 643020045-6 Section 1 username github : gumpun1z
 
 ![gumpun](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/Gumpun.jpg)
