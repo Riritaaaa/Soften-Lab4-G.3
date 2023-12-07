@@ -21,3 +21,7 @@ Members
 - นายณัฐวัฒน์ หมายบุญ 643020045-6 Section 1 username github : gumpun1z
 
 ![gumpun](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/Gumpun.jpg)
+
+- นางสาวอาทิตยา โคตรธิสาร 643021259-2 Section.1 username github : Farafay
+
+![artitaya](https://github.com/Riritaaaa/Soften-Lab4-G.3/blob/main/media/artitaya.jpg)
